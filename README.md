@@ -1,1 +1,1 @@
-!(Advent JS - Midudev)[https://adventjs.dev/og.jpg]
+![Advent JS - Midudev](https://adventjs.dev/og.jpg)
