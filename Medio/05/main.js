@@ -27,4 +27,4 @@ function cyberReindeer(road, time) {
   
      // Devuelve el array con el estado de la carretera en cada paso de tiempo
     return arrayRoad
-  }
+}
