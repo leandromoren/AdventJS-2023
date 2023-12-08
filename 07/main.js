@@ -21,4 +21,4 @@ function drawGift(size, symbol) {
     return [top, bottom].flat().join('\n') + '\n';
 }
 
-console.log(drawGift(10, '"'))
+console.log(drawGift(10, '$'))
